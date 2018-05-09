@@ -2,7 +2,7 @@ My #OpenSourceWednesday project is my old iOS Web Server Everest X!
 
 > Side Note: Everest X is released under the GNU General Public License v3.0. 
 
-> Therefore if you are to use this project or any part of it that is created by myself you are too abide by the following rules. 
+> Therefore if you are to use this project or any part of it that is created by myself you are to abide by the following rules. 
 
 > The simple explanation is you're allowed to do what you like as long as you leave the original license in-tact, open source the project it is used in, state your changes and use the same license I did which is the GNU General Public License v3.0.
 
