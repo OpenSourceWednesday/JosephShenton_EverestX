@@ -1,0 +1,6 @@
+framework module Pods_PangeaIO {
+  umbrella header "Pods-PangeaIO-umbrella.h"
+
+  export *
+  module * { export * }
+}

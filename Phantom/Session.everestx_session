@@ -1,0 +1,18 @@
+{
+	"windows": [
+      {
+		"buffers": [
+			{
+				"segue": "0",
+				"content": "Everest X\nIs\nBae",
+				"name": "Test.txt"
+			},
+			{
+				"segue": "1",
+				"content": "Joseph\nIs\nBae",
+				"name": "Untitled"
+			}
+		] 
+      }
+	]
+}

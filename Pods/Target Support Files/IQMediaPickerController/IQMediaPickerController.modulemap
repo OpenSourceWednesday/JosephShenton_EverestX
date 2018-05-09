@@ -1,0 +1,6 @@
+framework module IQMediaPickerController {
+  umbrella header "IQMediaPickerController-umbrella.h"
+
+  export *
+  module * { export * }
+}

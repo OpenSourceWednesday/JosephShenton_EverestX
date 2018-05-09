@@ -1,0 +1,6 @@
+framework module DBCameraButton {
+  umbrella header "DBCameraButton-umbrella.h"
+
+  export *
+  module * { export * }
+}
